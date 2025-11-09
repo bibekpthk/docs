@@ -22,15 +22,6 @@
             "pages": ["index"]
           },
           {
-            "group": "Getting Started",
-            "pages": [
-              "getting-started/index",
-              "getting-started/sign-up",
-              "getting-started/verify-account",
-              "getting-started/sign-in"
-            ]
-          },
-          {
             "group": "Website (Frontend)",
             "pages": [
               "website/index",
