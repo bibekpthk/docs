@@ -65,7 +65,8 @@
             "group": "Help",
             "pages": [
               "troubleshooting/index",
-              "faq"
+              "faq",
+              "support"
             ]
           }
         ]
