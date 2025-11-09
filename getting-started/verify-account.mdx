@@ -3,19 +3,26 @@ title: "Verify Account"
 description: "Email, phone, and two-factor verification."
 ---
 
-After sign up, you may need to verify your email and optionally your phone.
+<Callout type="note" emoji="✉️">
+After signing up, you will receive a verification code by email (and by phone if phone verification is enabled).
+</Callout>
 
 <Steps>
-1. Open the verification page at `/user/authorization` (auto-redirect after login if pending).
-2. Click “Resend Code” if you didn’t receive the code.
-3. Enter the code to verify your email (and phone if requested).
-4. Optionally set up 2FA (Time-based one-time password) for extra security.
+1. Check your inbox for the code.
+2. You’ll be redirected to the verification page automatically.
+   <br/>
+   The direct URL is:
+   <Button href="https://chiyapasal.me/user/authorization" newTab>Open Verification</Button>
+3. Enter your verification code and submit.
+4. If you did not receive the code, select <b>Resend Code</b> on the same screen.
 </Steps>
 
 <Callout type="warning" emoji="⏱️">
-Verification codes expire. If the code times out, resend and try again.
+Verification codes expire. If the code times out, select Resend Code and try again.
 </Callout>
 
-### KYC verification
-Some countries require KYC for payouts. If your country is in the required list, you’ll be prompted in the dashboard to submit documents under KYC.
+## Add Extra Security (2FA)
 
+<Callout type="tip" emoji="🔐">
+To add extra security later, enable Two‑factor Authentication (2FA) from your Account Settings using a time‑based one‑time password app (e.g., Google Authenticator or Authy).
+</Callout>

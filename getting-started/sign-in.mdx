@@ -4,17 +4,22 @@ description: "Log in to your account and access your dashboard."
 ---
 
 <Steps>
-1. Go to `/user/sign-in`.
-2. Enter your username or email, and password.
-3. Complete captcha if shown.
-4. If 2FA is enabled, enter the 6‑digit code from your authenticator app.
-5. You’ll be redirected to your profile or dashboard after login.
+1. Open the sign‑in page:
+   <Button href="https://chiyapasal.me/user/sign-in" newTab>Go to Sign In</Button>
+2. Enter your email or username, and your password.
+3. Complete the captcha if shown.
+4. If Two‑factor Authentication (2FA) is enabled, enter the 6‑digit code from your authenticator app.
+5. Select <b>Sign In</b> to continue to your dashboard.
 </Steps>
 
-<Callout type="note" emoji="🛡️">
-Accounts set to “deactivated” are reactivated on successful login if your email is already verified.
+<Callout type="tip" emoji="🔑">
+Forgot your password? Use <b>Forgot Password?</b> on the sign‑in page to request a reset code, verify it, and set a new password.
 </Callout>
 
-### Forgot password
-- Use “Forgot Password?” on `/user/sign-in` to request a reset code, verify it, and set a new password.
+<Callout type="note" emoji="🛡️">
+If your account was previously deactivated, a successful sign‑in reactivates it after your email is verified.
+</Callout>
 
+<Callout type="warning" emoji="❗">
+Having trouble signing in? Check caps lock, try your email instead of username, and ensure your device time is correct for 2FA codes. If issues persist, reset your password or open a support ticket at `/ticket`.
+</Callout>
