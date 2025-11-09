@@ -1,0 +1,21 @@
+---
+title: "Verify Account"
+description: "Email, phone, and two-factor verification."
+---
+
+After sign up, you may need to verify your email and optionally your phone.
+
+<Steps>
+1. Open the verification page at `/user/authorization` (auto-redirect after login if pending).
+2. Click “Resend Code” if you didn’t receive the code.
+3. Enter the code to verify your email (and phone if requested).
+4. Optionally set up 2FA (Time-based one-time password) for extra security.
+</Steps>
+
+<Callout type="warning" emoji="⏱️">
+Verification codes expire. If the code times out, resend and try again.
+</Callout>
+
+### KYC verification
+Some countries require KYC for payouts. If your country is in the required list, you’ll be prompted in the dashboard to submit documents under KYC.
+
