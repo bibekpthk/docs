@@ -8,14 +8,14 @@
     "dark": "logo/chiyapasal_logo_white.png"
   },
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#FF6A00",
+    "light": "#FFC48F",
+    "dark": "#C45100"
   },
   "navigation": {
     "tabs": [
       {
-        "tab": "User Manual",
+        "tab": "Guide",
         "groups": [
           {
             "group": "Overview",
