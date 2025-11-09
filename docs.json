@@ -30,9 +30,8 @@
             ]
           },
           {
-            "group": "Creators Page",
+            "group": "Creators",
             "pages": [
-              "website/index",
               "website/creator-page",
               "website/support-and-membership",
               "website/comments-and-likes"
