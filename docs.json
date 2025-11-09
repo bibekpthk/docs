@@ -46,6 +46,7 @@
               "dashboard/content-videos",
               "dashboard/memberships",
               "dashboard/payments",
+              "dashboard/insights",
               "dashboard/inbox",
               "dashboard/transactions",
               "dashboard/kyc"
