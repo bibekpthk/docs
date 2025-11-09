@@ -55,7 +55,6 @@
           {
             "group": "Account & Security",
             "pages": [
-              "account/index",
               "account/profile",
               "account/settings",
               "account/security",
