@@ -1,7 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Chiya Pasal Manual",
+  "name": "Chiya Pasal Guide",
+  "logo": {
+    "light": "logo/chiyapasal_logo_blk.png",
+    "dark": "logo/chiyapasal_logo_white.png"
+  },
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
