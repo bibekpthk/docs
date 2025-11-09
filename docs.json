@@ -64,6 +64,7 @@
           {
             "group": "Help",
             "pages": [
+              "regional-availability",
               "troubleshooting/index",
               "faq",
               "support"
