@@ -41,6 +41,7 @@
             "group": "Dashboard",
             "pages": [
               "dashboard/index",
+              "dashboard/signals",
               "dashboard/content-posts",
               "dashboard/content-gallery",
               "dashboard/content-videos",
