@@ -4,8 +4,8 @@
   "name": "Journi Guide",
   "favicon": "favicon.ico",
   "logo": {
-    "light": "logo/chiyapasal_logo_blk.png",
-    "dark": "logo/chiyapasal_logo_white.png"
+    "light": "logo/logo.png",
+    "dark": "logo/Logo_White.png"
   },
   "colors": {
     "primary": "#FF6A00",
