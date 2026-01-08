@@ -42,9 +42,8 @@
             "pages": [
               "dashboard/index",
               "dashboard/signals",
+              "dashboard/projects",
               "dashboard/content-posts",
-              "dashboard/content-gallery",
-              "dashboard/content-videos",
               "dashboard/memberships",
               "dashboard/payments",
               "dashboard/insights",
